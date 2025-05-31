@@ -1,0 +1,11 @@
+git status
+
+git add .
+
+
+git commit -m "Changes mo na ginawa"
+
+git push 
+
+
+
